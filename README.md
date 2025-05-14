@@ -31,13 +31,13 @@ A simple and lightweight Notes Maker web application built with **Vite + React +
   ```bash
   git clone https://github.com/HB936/Notes-Maker-App.git
   cd Notes-Maker-App
-###2️⃣ Install Dependencies
+### 2️⃣ Install Dependencies
 - npm install
 
-###3️⃣ Run the App Locally
+### 3️⃣ Run the App Locally
 - npm run dev
 
-###4️⃣ Open in Browser
+### 4️⃣ Open in Browser
 - http://localhost:5173
 
 ## 📂 Folder Structure
@@ -61,29 +61,29 @@ Notes-Maker-App/
 └── vite.config.js
 ```
 
-###⚙️ How It Works
--User enters Title and Description in input fields.
+### ⚙️ How It Works
+- User enters Title and Description in input fields.
 
--On clicking Add Note:
+- On clicking Add Note:
 
-A new note is created and added to the state array.
+-- A new note is created and added to the state array.
 
-Notes are displayed dynamically below the form.
+-- Notes are displayed dynamically below the form.
 
-React state updates re-render the UI instantly.
+-- React state updates re-render the UI instantly.
 
-###🚀 Future Enhancements
--Delete a note.
+### 🚀 Future Enhancements
+- Delete a note.
 
--Edit existing notes.
+- Edit existing notes.
 
--Save notes to LocalStorage for persistence.
+- Save notes to LocalStorage for persistence.
 
--Search and filter notes by title.
+- Search and filter notes by title.
 
--Responsive design improvements for small devices.
+- Responsive design improvements for small devices.
 
-###📃 License
+### 📃 License
 This project is open-source and free to use.
 
 ⭐ If you like this project, please give it a star!
