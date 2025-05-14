@@ -66,11 +66,11 @@ Notes-Maker-App/
 
 - On clicking Add Note:
 
--- A new note is created and added to the state array.
+--- A new note is created and added to the state array.
 
--- Notes are displayed dynamically below the form.
+--- Notes are displayed dynamically below the form.
 
--- React state updates re-render the UI instantly.
+--- React state updates re-render the UI instantly.
 
 ### 🚀 Future Enhancements
 - Delete a note.
